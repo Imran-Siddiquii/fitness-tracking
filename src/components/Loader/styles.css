@@ -1,0 +1,8 @@
+.loader {
+  position: relative;
+  display: flex;
+  place-content: center;
+  align-items: center;
+  height: 100%;
+  font-family: "Noto Sans JP", sans-serif;
+}

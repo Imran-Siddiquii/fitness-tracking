@@ -1,0 +1,9 @@
+.dashboard-container {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.dashboard-box {
+  padding: 30px;
+  text-align: center;
+}
